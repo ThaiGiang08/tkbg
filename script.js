@@ -11,11 +11,3 @@ if (d!=0) {
 	day = days[d-1];
 	var inputText = document.getElementById(day);
 }
-
-<script type="text/javascript">
-<!--
-if (screen.width <= 699) {
-document.location = "mobile.html";
-}
-//-->
-</script>
