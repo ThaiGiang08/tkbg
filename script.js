@@ -1,6 +1,6 @@
 var d = new Date().getDay();
 if (d!=0) {
-	var days = ['Hai','Ba','Tư','Năm','Sáu','Bảy','Chủ nhật'];
+	var days = ['Hai','Ba','Tư','Năm','Sáu','Bảy','Chủ nhật','2','3','4','5','6','7','CN'];
 	var day = days[d-1];
 	var inputText = document.getElementById(day);
 	var index = 7;
